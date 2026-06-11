@@ -12,7 +12,7 @@
 ---
 
 ## 🎭 Sobre o Projeto
-O sistema foi desenvolvido como uma solução em C puro para gerenciar as finanças e territórios de Forks, divididos entre o Clã Cullen e a Tribo Quileute. O programa utiliza persistência contígua em disco para garantir que os dados fiquem salvos mesmo após o encerramento do terminal.
+O sistema foi desenvolvido como uma solução em C para gerenciar as finanças e territórios de Forks, divididos entre o Clã Cullen e a Tribo Quileute. O programa utiliza persistência contígua em disco para garantir que os dados fiquem salvos mesmo após o encerramento do terminal.
 
 ---
 
