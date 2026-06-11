@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Sistema de Manutenção de Contas Bancárias em C Puro</strong><br>
+  <strong>Sistema de Manutenção de Contas Bancárias em C</strong><br>
   Gerenciamento de registros de tamanho fixo utilizando manipulação direta de arquivos binários.
 </p>
 
