@@ -16,7 +16,7 @@ O sistema foi desenvolvido como uma solução em C puro para gerenciar as finan�
 
 ---
 
-## 🚀 Funcionalidades Implementadas (Exigências do Enunciado)
+## 🚀 Funcionalidades Implementadas 
 
 O sistema cumpre com rigor técnico todas as operações obrigatórias utilizando a biblioteca padrão `stdio.h`:
 
